@@ -1,0 +1,8 @@
+{
+  "name": "CardapioMovel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6f56b998"
+}
